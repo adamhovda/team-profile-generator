@@ -1,0 +1,19 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: whitesmoke;
+    height: 100px;
+}
+
+div {
+    
+    width: 20%;
+    background-color: aqua;
+
+
+}
+
+container {
+    display: flexbox;
+    flex: auto;
+}
